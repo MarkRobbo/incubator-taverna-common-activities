@@ -30,7 +30,7 @@ inputs:
   input_2:
     type: boolean[]
     label: input 1 testing label cwl v1.0
-    description: this is a short description of input 1 cwl v1.0
+    doc: this is a short description of input 1 cwl v1.0
     format: edam:format_2323
 
   input_3: int

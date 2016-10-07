@@ -39,7 +39,7 @@ public class CWLUtil {
 	private static final String ID = "id";
 	private static final String TYPE = "type";
 	private static final String ARRAY = "array";
-	private static final String DESCRIPTION = "description";
+	private static final String DESCRIPTION = "doc";
 	private static final int DEPTH_0 = 0;
 	private static final int DEPTH_1 = 1;
 	private static final int DEPTH_2 = 2;
